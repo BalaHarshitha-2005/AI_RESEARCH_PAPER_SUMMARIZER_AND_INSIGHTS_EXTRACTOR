@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+transformers
+torch
+pdfplumber
+scikit-learn
+python-multipart
+requests
+faiss
+sentence-transformers
